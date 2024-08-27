@@ -1,1 +1,1 @@
-# siamese-network-embedding
+# siamese-network-embeddings
