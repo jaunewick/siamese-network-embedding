@@ -7,6 +7,7 @@ name = "pypi"
 keras = "*"
 tensorflow = "*"
 matplotlib = "*"
+numpy = "*"
 
 [dev-packages]
 ipykernel = "*"
