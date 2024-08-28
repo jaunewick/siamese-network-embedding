@@ -9,6 +9,7 @@ tensorflow = "*"
 matplotlib = "*"
 numpy = "*"
 pydot = "*"
+graphviz = "*"
 
 [dev-packages]
 ipykernel = "*"
