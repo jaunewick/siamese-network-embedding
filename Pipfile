@@ -8,6 +8,7 @@ keras = "*"
 tensorflow = "*"
 matplotlib = "*"
 numpy = "*"
+pydot = "*"
 
 [dev-packages]
 ipykernel = "*"
