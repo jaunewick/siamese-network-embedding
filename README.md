@@ -87,7 +87,7 @@ def generate_pairs(X, y):
         X_pairs.append([X[i], X[negative_label_index]])
         y_pairs.append([1])
 
-    # Braking alternate pos/neg
+    # Breaking alternate pos/neg
     indices = np.arange(len(X_pairs))
     np.random.shuffle(indices)
     
